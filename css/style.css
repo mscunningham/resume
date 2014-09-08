@@ -1,7 +1,7 @@
 body {
 	font-family: verdana;
 	margin-top: 200px;
-	padding-left: 80px;
+	margin-left: 80px;
 	width: 850px;
 }
 
@@ -30,7 +30,6 @@ p  {
 .Job {
 	font-size: 12pt;
 	font-weight: bold;
-	line-height: 6px;
 	padding-bottom: 3px;
 
 }
@@ -38,7 +37,6 @@ p  {
 .Section {
 	font-size: 16pt;
 	font-weight: bold;
-	line-height: 6px;
 	padding-bottom: 3px;
 
 

@@ -6,7 +6,9 @@ body {
 }
 
 h1 {
-	font-size: 18pt;
+	font-size: 28pt;
+	font-family: Lobster;
+	color: #FF6666;
 }
 
 h2 { 
@@ -15,14 +17,22 @@ h2 {
 	font-weight: lighter;
 }
 
+
+div{
+	padding-bottom: 20px;
+}
+
 .label {
 	font-weight: bold;
 }
 
+.Section div{
+	padding-bottom: 0px;
+
+}
 
 p  { 
 	font-size: 10pt;
-	margin-left: 200px;
 	font-weight: lighter;
 	line-height: 19px;
 }
@@ -30,14 +40,21 @@ p  {
 .Job {
 	font-size: 12pt;
 	font-weight: bold;
-	padding-bottom: 3px;
+	padding-top: 20px;
+	font-family: Lato;
+	font-style: bold;
+	color: #FF6666;
+	padding-left: 40px;
 
+}
+
+.Job p {
+	color: black;
 }
 
 .Section {
 	font-size: 16pt;
 	font-weight: bold;
-	padding-bottom: 3px;
 
 
 
